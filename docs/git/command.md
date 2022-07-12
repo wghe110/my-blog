@@ -8,7 +8,7 @@ sidebarDepth: 0
 ```
 git log --author=“author”
 ```
-![特殊格式显示log](https://upload-images.jianshu.io/upload_images/4602786-00d95a5038a482a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![特殊格式显示log](./images/git-author.png)
 ```
 git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
 ```
@@ -42,5 +42,5 @@ git commit -m '备注'
 git push
 ```
 - reset和revert区别
-![reset](https://upload-images.jianshu.io/upload_images/4602786-3fb72e8ae1ac02e6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![revert](https://upload-images.jianshu.io/upload_images/4602786-e3c849b0f1ccdd08.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![reset](./images/reset.png)
+![revert](./images/revert.png)

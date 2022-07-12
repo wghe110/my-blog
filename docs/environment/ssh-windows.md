@@ -27,9 +27,9 @@ ssh-keygen -t rsa -C "你的邮箱地址"
     cat ~/.ssh/id_rsa.pub
     ```
   5. 复制里么的内容：如下
-    ![id_rsa.pub](https://upload-images.jianshu.io/upload_images/4602786-ba42c766da0f4e99.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+    ![id_rsa.pub](./images/id_rsa.png)
   6. 打开 `github -> Settings -> SSH and GPG keys `或者 [https://github.com/settings/keys](https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2Fsettings%2Fkeys) 后 点击 `New SSH key` 按钮，然后进行如下操作：
-![看图操作，小可爱](https://upload-images.jianshu.io/upload_images/4602786-e17eb0a630522926.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![看图操作，小可爱](./images/ssh-keys.png)
 
 7. 校验是否成功：
 
@@ -38,7 +38,7 @@ ssh-keygen -t rsa -C "你的邮箱地址"
 ssh -T git@github.com
 ```
 - 然后你可能看到如下内容：直接输入 `yes` 回车
-![看图，靓仔](https://upload-images.jianshu.io/upload_images/4602786-3034f4046853bd3d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![看图，靓仔](./images/connecting.png)
 
 - 如果是下面的代码提示，说明失败，请重新回到第 `3` 步重新来一遍
 ```

@@ -54,6 +54,7 @@ module.exports = {
                         '/environment/nvm-install.md',
                         '/environment/cleanly-vscode.md',
                         '/environment/uninstall-node-mac.md',
+                        '/environment/api-define.md',
                     ]
                 }
             ],
@@ -73,6 +74,35 @@ module.exports = {
                         '/git/index.md',
                         '/git/command.md',
                         '/git/wrong-solution.md',
+                        '/git/npm-errors.md',
+                    ]
+                }
+            ],
+            '/scaffold/': [
+                {
+                    text: '脚手架相关',
+                    children: [
+                        '/scaffold/index.md',
+                        '/scaffold/vue-cli_path.md',
+                        '/scaffold/vite-related.md',
+                    ]
+                }
+            ],
+            '/vue/': [
+                {
+                    text: 'vue相关',
+                    children: [
+                        '/vue/index.md',
+                        '/vue/vue3-404.md',
+                    ]
+                }
+            ],
+            '/tools': [
+                {
+                    text: '工具相关',
+                    children: [
+                        '/tools/index.md',
+                        '/tools/tinymce-vue3.md',
                     ]
                 }
             ]
