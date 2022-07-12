@@ -2,11 +2,13 @@ const { defaultTheme } = require('@vuepress/theme-default')
 
 module.exports = {
     lang: 'zh-CN',
-    title: 'wghe110 随便写写',
+    title: 'wghe110 的笔记',
     description: 'blog 博客 wghe110',
 
     // configure default theme
     theme: defaultTheme({
+        logo: '/logo.svg',
+        logoDark: '/logo-dark.svg',
         navbar: [
             {
                 text: '前端环境',
@@ -107,5 +109,5 @@ module.exports = {
                 }
             ]
         }
-    })
+    }),
 }
