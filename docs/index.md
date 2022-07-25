@@ -1,7 +1,7 @@
 ---
 home: true
 title: 首页
-heroImage: /hero.png
+heroImage: /hero.jpg
 features:
   - title: 笔记
     details: 记录一些有用的知识，子曰：温故而知新，可以为师矣.

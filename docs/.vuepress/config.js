@@ -2,8 +2,8 @@ const { defaultTheme } = require('@vuepress/theme-default')
 
 module.exports = {
     lang: 'zh-CN',
-    title: 'wghe110 的笔记',
-    description: 'blog 博客 wghe110',
+    title: '大爷，常来玩呀',
+    description: 'wghe110的个人blog',
 
     // configure default theme
     theme: defaultTheme({
@@ -87,6 +87,7 @@ module.exports = {
                         '/scaffold/index.md',
                         '/scaffold/vue-cli_path.md',
                         '/scaffold/vite-related.md',
+                        '/scaffold/opt-cli.md',
                     ]
                 }
             ],
