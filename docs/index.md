@@ -17,5 +17,3 @@ features:
     details: 锄禾日当午，汗滴禾下土，谁知盘中餐，粒粒皆辛苦
 footer: MIT Licensed | Copyright © 2018-2022 wghe110
 ---
-
-<SearchBox />
