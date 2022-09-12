@@ -2,8 +2,8 @@ const { defaultTheme } = require('@vuepress/theme-default')
 
 module.exports = {
     lang: 'zh-CN',
-    title: '大爷，常来玩呀',
-    description: 'wghe110的个人blog',
+    title: '唧唧复唧唧',
+    description: '木兰织毛衣',
 
     // configure default theme
     theme: defaultTheme({

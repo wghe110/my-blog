@@ -24,3 +24,4 @@ node_modules/
 
 # Typescript build info
 *.tsbuildinfo
+package-lock.json
