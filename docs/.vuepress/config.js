@@ -46,20 +46,18 @@ module.exports = {
         sidebar: {
             '/environment/': [
                 {
-                    text: '前端环境',
+                    text: '前端环境-mac',
                     children: [
                         '/environment/index.md',
                         '/environment/home-brew.md',
                         '/environment/git.md',
                         '/environment/nvm.md',
-                        '/environment/env-mac.md',
-                        '/environment/env-win.md',
-                        '/environment/npm-reg-taobao.md',
-                        '/environment/ssh-windows.md',
-                        '/environment/nvm-install.md',
-                        '/environment/cleanly-vscode.md',
-                        '/environment/uninstall-node-mac.md',
+                        '/environment/nrm.md',
+                        '/environment/git-config.md',
+                        '/environment/ssh-keys.md',
+                        '/environment/vscode.md',
                         '/environment/api-define.md',
+                        '/environment/ps-install.md',
                     ]
                 }
             ],

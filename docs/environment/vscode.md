@@ -2,7 +2,7 @@
 sidebarDepth: 0
 ---
 
-# 创建一个干净的vscode
+# vscode配置
 
 ## 要求
   - 干净
@@ -45,8 +45,8 @@ sidebarDepth: 0
   4. 安装它
   5. 安装前端常用到的插件：（推荐）
       -  简体中文包
-      - vetur
+      - Volar
       - eslint
       - GitLens
       - Git History
-      - Vue 3 Snippets
+      - Path Intellisense

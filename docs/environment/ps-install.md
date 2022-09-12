@@ -1,6 +1,19 @@
-# ps MacOS系统安装教程
+---
+sidebarDepth: 0
+---
 
-*前提：*[下载ps]()
+# photoshop安装
+
+## 下载安装包
+- `intel`
+
+    1. [阿里云盘](https://www.aliyundrive.com/s/rhjgHqdfqBe),提取码：`l5i4`，注意：下载后需要把扩展名改成`.dmg`
+    2. [百度网盘](https://pan.baidu.com/s/1WMxxSUfJBok3ygRYfRorkw)，提取码：`8u3v`
+- `M1`
+    1. [阿里云盘](https://www.aliyundrive.com/s/F8y2E6aZSDW),提取码：`kj58`，注意：下载后需要把扩展名改成`.dmg`
+    2. [百度网盘](https://pan.baidu.com/s/1nAwXbOgpnblluDYHTSXaYw)，提取码：`ghx7`
+
+## 安装
 
 1. macOS Sierra系统在系统偏好设置中的“安全与隐私”模块里，默认关闭了允许“任何来源”App，并为隐藏状态。如果不开启，会导致在安装或者运行一些第三方软件的时候出现错误。【提示：打开第三方软件的时候经常报错为“该镜像已损坏，请移至废纸篓”】
 ![pic](./images/ps-1.png)
