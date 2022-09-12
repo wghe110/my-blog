@@ -51,6 +51,7 @@ module.exports = {
                         '/environment/index.md',
                         '/environment/home-brew.md',
                         '/environment/git.md',
+                        '/environment/nvm.md',
                         '/environment/env-mac.md',
                         '/environment/env-win.md',
                         '/environment/npm-reg-taobao.md',
