@@ -49,6 +49,8 @@ module.exports = {
                     text: '前端环境',
                     children: [
                         '/environment/index.md',
+                        '/environment/home-brew.md',
+                        '/environment/git.md',
                         '/environment/env-mac.md',
                         '/environment/env-win.md',
                         '/environment/npm-reg-taobao.md',
